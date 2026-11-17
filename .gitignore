@@ -1,0 +1,12 @@
+# Arquivos de projeto e sessao do R/RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Dados de saida gerados localmente
+previsao_7_dias.csv
+
+# Arquivos temporarios do sistema
+.DS_Store
+Thumbs.db
